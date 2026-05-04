@@ -15,7 +15,7 @@ The best-performing model was XGBoost based on F1-score.
 ---
 
 ## Final Report
-Machine Learning Approaches for Predicting Truck Failures Using Sensor Data.pdf
+[Download Report](CS460_Final_Report_ZoeMtz.pdf)
 
 ##  Poster
 Final Project Poster.pdf
