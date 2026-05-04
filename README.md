@@ -18,15 +18,14 @@ The best-performing model was XGBoost based on F1-score.
 [Download Report](CS460_Final_Report_ZoeMtz.pdf)
 
 ##  Poster
-Final Project Poster.pdf
+[Download Poster](Final%20Project%20Poster.pdf)
 
 ##  Presentation Video
 https://youtu.be/VreedJBphZ8
 ---
 
 ##  Code
-Final_Project.ipynb for full implementaion
----
+[View Notebook](Final_Project.ipynb)---
 
 ##  Dataset
 APS Failure Dataset from UCI Machine Learning Repository.
